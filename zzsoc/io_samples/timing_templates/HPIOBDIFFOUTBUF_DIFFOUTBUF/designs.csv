@@ -1,0 +1,3 @@
+Bel,AteDir,AteInputPin,AteDesign,FromInst,FromPin,ToInst,ToPin,ConfigName,
+HPIOBDIFFOUTBUF_DIFFOUTBUF,/wrk/seg_iob4/diablo/dpeters/simulation/vivado/hpio_16t_n1/OBUFTDS,clkin65,OBUFTDS_IOSTANDARD_LVDS,fd64,Q,my_obuf64,O,HPIOBDIFFOUTBUF_DIFFOUTBUF_OSTANDARD_LVDS,
+HPIOBDIFFOUTBUF_DIFFOUTBUF,/wrk/seg_iob4/diablo/dpeters/simulation/vivado/hpio_16t_n1/OBUFTDS,clkin65,OBUFTDS_IOSTANDARD_SUB_LVDS,fd64,Q,my_obuf64,O,HPIOBDIFFOUTBUF_DIFFOUTBUF_OSTANDARD_SUB_LVDS,
