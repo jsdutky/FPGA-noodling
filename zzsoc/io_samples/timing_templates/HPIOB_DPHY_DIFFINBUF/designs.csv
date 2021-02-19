@@ -1,0 +1,2 @@
+Bel,AteDir,AteInputPin,AteDesign,FromInst,FromPin,ToInst_HS,ToInst_LP_p,ToInst_LP_n,ToPin,ConfigName,
+HPIOB_DPHY_DIFFINBUF,/wrk/seg_iob4/diablo/dpeters/simulation/vivado/hpio_16t_n1/IBUFDS_DPHY,clkin65,IBUFDS_DPHY_IOSTANDARD_MIPI_DPHY_DCI,my_ibuf64/DIFFINBUF_INST,I,fd_hs65,fd_lp_p65,fd_lp_n65,D,HPIOB_DPHY_DIFFINBUF_ISTANDARD_MIPI_DPHY_DCI,

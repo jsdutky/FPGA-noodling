@@ -1,0 +1,4 @@
+Bel,AteDir,AteDesign,AteClkInst,AteClkPin,FromInst,FromPin,ToInst,ToPin,ConfigName,
+HPIOB_IBUFCTRL_S,/wrk/seg_iob4/diablo/dpeters/simulation/vivado/hpio_16t_n1/IBUF_IBUFDISABLE,HPIOB_IBUFCTRL_S__IBUFCTRL__IBUFDISABLE__O__PROPAGATION,my_ibufclk65,clkin65,my_ibuf64/IBUFCTRL_INST,I,fd65,D,HPIOB_IBUFCTRL_S__IBUFCTRL__I__O__PROPAGATION,
+HPIOB_IBUFCTRL_S,/wrk/seg_iob4/diablo/dpeters/simulation/vivado/hpio_16t_n1/IBUF_IBUFDISABLE,HPIOB_IBUFCTRL_S__IBUFCTRL__IBUFDISABLE__O__PROPAGATION,my_ibufclk65,clkin65,my_ibuf64/IBUFCTRL_INST,IBUFDISABLE,fd65,D,HPIOB_IBUFCTRL_S__IBUFCTRL__IBUFDISABLE__O__PROPAGATION,
+HPIOB_IBUFCTRL_S,/wrk/seg_iob4/diablo/dpeters/simulation/vivado/hpio_16t_n1/IOBUF,HPIOB_IBUFCTRL_S__IBUFCTRL__TRI__O__PROPAGATION,my_ibufclk65,clkin65,fdt65,Q,my_iobuf64,O,HPIOB_IBUFCTRL_S__IBUFCTRL__TRI__O__PROPAGATION,
